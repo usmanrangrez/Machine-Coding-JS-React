@@ -1,0 +1,17 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+.star {
+  cursor: pointer;
+  transition: color 400ms;
+}
+
+/* In this case, the transition property is set to color 400ms, which means that any changes to the color property of the .star class will have a transition effect with a duration of 400 milliseconds.  */
