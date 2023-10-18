@@ -1,0 +1,6 @@
+.container {
+  margin: 0 auto;
+  height: 80vh;
+  width: 100%;
+  overflow: auto;
+}
